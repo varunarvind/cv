@@ -1,0 +1,20 @@
+ body {
+     background-color: rgb(255, 255, 192);
+ }
+
+ hr {
+     border-style: none; /*Border style for all sides./
+     border-top-style: dotted; /*Border style only for the top.*/
+     height: 0px;
+     border-width: 6px;
+     width: 2cm; /* Changes the size.*/
+     border-color: grey;
+ }
+ h1{
+    color:#66bfbf;
+    text-align: center;
+    font-family:Arial;
+ }
+ h3{
+    color:#66bfbf;
+ }
